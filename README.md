@@ -5,14 +5,9 @@
 - Love solving algorithmic problems in spare time.
 
 
-<a href="https://github.com/bala418#js-contribution-activity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bala418&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true" width=57%/>
-</a>
-
-
 
 <a href="https://github.com/search?q=author:bala418">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bala418&theme=tokyonight&layout=compact&langs_count=8" width=41.5%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bala418&theme=tokyonight&layout=compact&langs_count=8" width=90%/>
 </a>
 
 ### Contact Me 📧
