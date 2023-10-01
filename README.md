@@ -8,4 +8,4 @@
 ### Contact Me 📧
 
 - Email: balavtwo@gmail.com
-- LinkedIn: [Bala Subramaniam](https://www.linkedin.com/in/bala418/)
+- LinkedIn: [bala418](https://www.linkedin.com/in/bala418/)
