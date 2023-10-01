@@ -1,4 +1,4 @@
-Hi there, I'm [Bala Subramaniam](https://www.bala418.vercel.app) 👋
+## Hi there, I'm [Bala Subramaniam](https://www.bala418.vercel.app) 👋
 
 - I'm currently working on developing small web applications.
 - My interests lie in software development and machine learning.
