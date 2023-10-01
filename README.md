@@ -1,9 +1,11 @@
-## Hi there, I’m [Bala Subramaniam](https://www.linkedin.com/in/bala418/) 👋
-- Currently working on small web applications.
-- Interested in software development and machine learning.
-- Learning the core of C++, Python and Javascript, and using them for some scalable and maintainable projects.
-- Love solving algorithmic problems in spare time.
+Hi there, I'm [Bala Subramaniam](https://www.bala418.vercel.app) 👋
+
+- I'm currently working on developing small web applications.
+- My interests lie in software development and machine learning.
+- I'm constantly learning the fundamentals of C++, Python, and JavaScript, and leveraging them for building scalable and maintainable projects.
+- In my spare time, I enjoy tackling algorithmic problems.
 
 ### Contact Me 📧
-* By Email: balavtwo@gmail.com
-* On LinkedIn: [Bala Subramaniam](https://www.linkedin.com/in/bala418/)
+
+- Email: balavtwo@gmail.com
+- LinkedIn: [Bala Subramaniam](https://www.linkedin.com/in/bala418/)
